@@ -4,3 +4,5 @@ pytest==6.2.5
 pytest-cov==3.0.0
 pytest-xdist==2.5.0
 flake8==4.0.1
+hello-world-crock-dev
+calculator-anarim1==0.0.1
