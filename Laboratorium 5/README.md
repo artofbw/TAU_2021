@@ -5,6 +5,11 @@
     
 #### Uruchomienie setuptools (generuje paczkę)
 
+    Ekwiwalent Mavena dla pythona
+    https://stackoverflow.com/questions/3324108/maven-equivalent-for-python
+    
+    tltr; setuptools
+
     python setup.py sdist
     
 
